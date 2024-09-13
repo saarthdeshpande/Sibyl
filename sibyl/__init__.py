@@ -1,5 +1,5 @@
 from argparse import ArgumentDefaultsHelpFormatter, ArgumentParser
-import execute
+from sibyl.src import execute
 modules = [
     'execute'
     ]

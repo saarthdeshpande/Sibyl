@@ -31,7 +31,7 @@ The storage management layer in the OS orchestrates host I/O requests across het
 Compiling HSS drivers:
 
 ```
-$ cd drivers
+$ cd driver
 $ gcc -fPIC -shared -o Sibyl_lib.so Sibyl_lib.c
 ```
 ## Workloads
